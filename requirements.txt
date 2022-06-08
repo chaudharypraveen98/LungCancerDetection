@@ -1,0 +1,7 @@
+django~=3.2.9
+djangorestframework~=3.11.2
+scipy~=1.7.1
+pathlib~=1.0.1
+tensorflow~=2.9.0
+numpy~=1.20.3
+pillow~=8.4.0
